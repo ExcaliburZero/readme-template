@@ -4,6 +4,7 @@ README Template is a project which helps to provide a template `README.md` file 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
+* [Contributing](#contributing)
 * [License](#license)
 
 ## Installation
@@ -25,6 +26,9 @@ To use README Template to generate a new readme file one would, thoeretically, r
 ```
 readme-template -n README.md
 ```
+
+## Contributing
+README Template is always open for contributions. Check out the [`CONTRIBUTING.md`](CONTRIBUTING.md) file for more information on joining in on the devleopment process.
 
 ## License
 README Template is available under the [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/), see the `LICENSE` file for more information.
