@@ -8,5 +8,18 @@ README Template can be installed by running the following command in the termina
 pip install readme-template
 ```
 
+## Usage
+README Template can be run by running the following command, if it were a program.
+
+```
+readme-template
+```
+
+To use README Template to generate a new readme file one would, thoeretically, run the following command.
+
+```
+readme-template -n README.md
+```
+
 ## License
 README Template is available under the [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/), see the `LICENSE` file for more information.
