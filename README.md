@@ -1,4 +1,4 @@
-# README Template
+# README Template [![Stories in Ready](https://badge.waffle.io/ExcaliburZero/readme-template.svg?label=ready&title=Ready)](http://waffle.io/ExcaliburZero/readme-template)
 README Template is a project which helps to provide a template `README.md` file to serve as a starting point for creating readme files for coding projects.
 
 ## Installation
